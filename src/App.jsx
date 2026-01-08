@@ -1,7 +1,11 @@
-import Head from './header.jsx'
+import Header from './header'
+import Main from './Main'
 
 export default function App() {
   return (
-    <Head />
+  <>
+    <Header />
+    <Main />
+  </>
   )
 }

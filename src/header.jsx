@@ -1,4 +1,4 @@
-export default function Head() {
+export default function Header() {
   return (
     <header className="header">
       <img className="logo" src="../src/assets/Chef Claude Icon.png" alt="Chef Claude icon"/>

@@ -107,3 +107,14 @@ ul.ingredients-list > li {
   font-family: 'Inter', sans-serif;
   font-size: .875rem;
 }
+
+.suggested-recipe-container {
+  color: #475467;
+  line-height: 1.75;
+  font-size: 1.125rem;
+  font-weight: 400;
+}
+
+.suggested-recipe-container ul li, .suggested-recipe-container ol li {
+    margin-bottom: 8px;
+}

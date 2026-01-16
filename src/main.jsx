@@ -21,7 +21,6 @@ export default function Main() {
     showRecipe(prev => !prev);
   }
 
-
   return (
     <main>
       <form action={addIngredient} className="add-ingredient-form">
@@ -40,3 +39,4 @@ export default function Main() {
     </main>
   );
 }
+
